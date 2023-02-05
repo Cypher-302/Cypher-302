@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cypher-302
-- 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning Delphi and Javascript
-- 💞️ I’m looking to collaborate on nothing right now
-- 📫 How to reach me: you probably wont
+- 👀 I’m interested in coding, learning, reading and gaming
+- 🌱 I’m currently learning Delphi, HTML, CSS and Javascript
+- 💞️ I’m looking to collaborate on: Nothing atm
+- 📫 How to reach me: I will add methods of contact once I am interested in collaboration/graduate Uni
